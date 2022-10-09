@@ -50,7 +50,7 @@ The test board is a self-designed miniboard, the project environment is vscode +
 
 Almost all necessary source files have been packaged in the components folder.
 
-Teoretically, this project configuration can be compatible with all ESP32 series chips.
+Theoretically, this project configuration can be compatible with all ESP32 series chips.
 
 
 ## Author
